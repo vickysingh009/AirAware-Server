@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "AirQualityApp",
+    "slug": "airqualityapp",
+    "version": "1.0.0",
+    
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png"
+  }
+}
